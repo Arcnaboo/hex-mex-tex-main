@@ -1,0 +1,89 @@
+sprites_gs.png
+size: 89, 928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aqua_green_gs
+  rotate: false
+  xy: 1, 313
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+aqua_white_gs
+  rotate: false
+  xy: 1, 1
+  size: 87, 76
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+blue_white_gs
+  rotate: false
+  xy: 1, 79
+  size: 87, 76
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+green_black_gs
+  rotate: false
+  xy: 1, 157
+  size: 87, 76
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+lime_yellow_gs
+  rotate: false
+  xy: 1, 390
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 6
+  index: -1
+magenta_black_gs
+  rotate: false
+  xy: 1, 467
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+navy_black_gs
+  rotate: false
+  xy: 1, 544
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 4
+  index: -1
+orange_yellow_gs
+  rotate: false
+  xy: 1, 621
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+purple_green_gs
+  rotate: false
+  xy: 1, 235
+  size: 87, 76
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+purple_red_gs
+  rotate: false
+  xy: 1, 698
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 5
+  index: -1
+rainbow_gs
+  rotate: false
+  xy: 1, 775
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 4
+  index: -1
+red_black_gs
+  rotate: false
+  xy: 1, 852
+  size: 87, 75
+  orig: 98, 84
+  offset: 5, 6
+  index: -1
